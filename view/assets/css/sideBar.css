@@ -1,0 +1,66 @@
+.sideBar {
+    height: 100vh;
+    background: #0A2459;
+    color: white;
+    /* position: absolute; */
+}
+
+.logo-box {
+    /* padding-top: 10px; */
+    /* background: red; */
+    max-height: 50px;
+    min-height: 50px;
+    color: #576FFC;
+}
+
+.homeDashBoard {
+    background: #232e98;
+    color: white;
+}
+
+.sideBarItems li {
+    list-style: none;
+    color: #A4AcB7;
+}
+
+.sideBarItems li span {
+    font-size: 15px;
+}
+
+.sideBarItems li .badge {
+    font-size: 15px;
+}
+
+.sideBarItems .list-title {
+    color: #898f96;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.list-item:hover {
+    background: #232e98;
+    color: white;
+}
+
+.list-item {
+    width: 100%;
+    position: relative;
+    padding: 2px 10px;
+    transition: 0.2s ease-in-out;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+
+/* 1121EF */
