@@ -14,3 +14,8 @@ body {
 .row {
     --bs-gutter-x: 0;
 }
+
+.card-box {
+    min-width: 90%;
+    min-height: 70px;
+}
